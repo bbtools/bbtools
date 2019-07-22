@@ -76,10 +76,11 @@ function get_addresses(address){
     let result = postal + ';';
     result += city + ';';
     result += streets[i] + ' ';
-    switch (type) {
-      case 'u.' || 'utca' || 'út':
+    if (type == 'u.' || type == 'utca' || type == 'út') {
         results.push(result + 'út;')
         results.push(result + 'utca;')
+    } else {
+      results.push(result + type);
     }
   }
 
