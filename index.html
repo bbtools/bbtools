@@ -9,6 +9,14 @@
 
 <body>
   <script>
+function trim(s, c) {
+  if (c === "]") c = "\\]";
+  if (c === "\\") c = "\\\\";
+  return s.replace(new RegExp(
+    "^[" + c + "]+|[" + c + "]+$", "g"
+  ), "");
+}
+
 function get_addresses(address){
 
   address = address.replace('–', '-');
@@ -16,7 +24,7 @@ function get_addresses(address){
   // Getting postal code
   let postal = null;
   try{
-    postal = address.match(/(\s)?\d\d\d\d(\s)?/i)[0].trim(' ');
+    postal = address.match(/(\s)?\d\d\d\d(\s)?/i)[0].trim();
   } catch(err) {
     return ['Nem talaltam iranyitoszamot.(' + address + ')'];
   }
@@ -28,11 +36,10 @@ function get_addresses(address){
   try{
     let candidates = address.split(',');
     for (let i = 0; i < candidates.length; i++){
-      candidate = candidates[i].trim(' ');
+      candidate = candidates[i].trim();
       if (candidate.split(' ').length == 1 && candidate.split(' ')[0].length > 2){
         city = candidate;
       }
-      //console.log(candidates[i]);
     }
   } catch (err) {
     return ['Nem talaltam varost.(' + address + ')'];
@@ -54,15 +61,18 @@ function get_addresses(address){
   try{
     //street = address.match(/[A-ZÁÉÍÓÖŐÚÜŰ][^,;\n]+\d\.*[^,;\n]+/i)[0];
     street = address.match(/[A-ZÁÉÍÓÖŐÚÜŰ][^,;\n\d]+/)[0];
+    street = trim(street.trim(), '.');
   } catch(err) {
     return ['Nem talaltam utcanevet.(' + address + ')'];
   }
 
+
+
   // Get type
   let type = null;
   try{
-    type = street.match(/\s[a-záéíóöőúüű][^,;\n\d\s]+/)[0].trim(' ');
-    street = street.replace(type, '').trim(' ');
+    type = street.match(/\s[a-záéíóöőúüű][^,;\n\d\s]+/)[0].trim();
+    street = street.replace(type, '').trim();
   } catch (err) {
     return ['Nem talaltam kozterulet tipust.(' + address + ')'];
   }
@@ -119,11 +129,9 @@ function generate(){
   let allresults = [];
   let lines = document.getElementById('addresses').value.split('\n');
   for (let i = 0; i < lines.length; i++){
-    console.log(get_addresses(lines[i]));
     allresults = allresults.concat(get_addresses(lines[i]));
   }
 
-  console.log(allresults);
   let output = '';
   for (let i = 0; i < allresults.length; i++){
     output += allresults[i] + "\r\n";
