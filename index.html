@@ -85,7 +85,7 @@ function get_addresses(address){
   for (let i = 0; i < streets.length; i++){
     let result = postal + ';';
     result += city + ';';
-    result += streets[i] + ' ';
+    result += streets[i] + ';';
     if (type == 'u.' || type == 'utca' || type == 'út') {
         results.push(result + 'út;')
         results.push(result + 'utca;')
