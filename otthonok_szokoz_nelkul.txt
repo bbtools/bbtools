@@ -1,0 +1,709 @@
+1027 Budapest, Bem J. tér 2.
+5241 Abádszalók, Kossuth L. út 6/b.
+2118 Dány, Szabadság út 79.
+2317 Szigetcsép, Fő út 50.
+8136 Lajoskomárom, Jókai u. 8.
+7030 Paks, Akác u.6.
+4262 Nyíracsád, Petőfi tér 4.
+3351 Verpelét, Szabadság tér 6.
+5474 Tiszasas, Fő út 13.
+4737 Kisnamény, Kis u.20.
+1204 Budapest, Akácfa u. 39.
+1204 Budapest, Kövező u. 4.
+4200 Hajdúszoboszló, Kálvin tér 9.
+8700 Marcali, Templom u. 4.
+8623 Balatonföldvár, Spúr I. u. 6.
+8111 Seregélyes-Szőlőhegy,Öreghegy 65/A-B, nincs adat
+6070 Izsák, Kossuth u.49.
+2340 Kiskunlacháza, Móricz Zsigmond u. 36.
+1106 Budapest, Jászberényi út 82.
+2094 Nagykovácsi, Nádas u. 3.
+6035 Ballószög, V. körzet . 168.
+1039 Budapest, Batthyány u. 45.
+3416 Tard, Nagymajor u. 1.
+2370 Dabas, Szt. István út 63.
+6430 Bácsalmás, Dugonics u. 35.
+6000 Kecskemét, Szent László város 1.
+6454 Bácsborsód, Dózsa Gy. u. 9.
+6527 Nagybaracska, Mohácsi u. 6.
+4286 Bagamér, Bocskai u. 10, 15.
+9145 Bágyogszovát, Szabadság u. 79.
+8581 Bakonyjákó, Üttőrő u.7.
+6725 Szeged, Harmat u. 2.
+4233 Balkány, Ságvári u. 33.
+4060 Balmazújváros, Veres P.u.57.
+4060 Balmazújváros, Kossuth u. 48.
+7628 Pécs, Barátság u. 18.
+7624 Pécs, Xavér u. 10.
+7624 Pécs, Alkotmány u. 77.
+7636 Pécs, Malomvölgyi u. 21.
+7570 Barcs, Bajcsy-Zs. u. 32-34.
+2883 Bársonyos, Pervátpuszta 1.
+2730 Albertirsa, Köztársaság u. 129-135.
+3900 Szerencs, Bekecsi u. 10.
+2071 Páty, Csilla von Boeselager u. 3.
+5630 Békés, Farkas Gy. u. 2.
+5525 Füzesgyarmat, Kossuth u. 86.
+5530 Vésztő, Kossuth L.u.192.
+5534 Okány, Kastélykert 4.
+5931 Nagyszénás, Táncsics u. 3.
+3324 Felsőtárkány, Kisfaludy u. 14.
+5600 Békéscsaba, Lencsési út 85.
+5600 Békéscsaba, Berényi út 125.
+5600 Békéscsaba, Ady E. u. 30-34.
+5600 Békéscsaba, Bartók B.út. 12.
+5600 Békéscsaba, Csaba u. 3.
+5561 Békésszentandrás, Kálvin u. 10.
+3346 Bélapátfalva, Petőfi u. 25.
+4231 Bököny, Debreceni út 52-54.
+4968 Túrricse, Zrínyi u. 2.
+6064 Tiszaug, Rákóczi u. 49.
+4836 Lónya, Árpád u. 91.
+7827 Beremend, Gorkij fasor 1-5.
+5420 Túrkeve, Ecsegi út 13.
+5071 Besenyszög, Szabadság tér 3.
+2030 Érd, Gyula u. 39-47.
+3932 Erdőbénye, Kossuth u. 13.
+3592 Nemesbikk, Petőfi u. 15.
+4200 Hajdúszoboszló, Hőforrás u. 105/C
+3916 Bodrogkeresztúr, Kastély köz 18.
+2072 Zsámbék, Táncsics Mihály u.22.
+2051 Biatorbágy, Boldog Gizella u 1.
+5530 Vésztő, Kossuth u.40.
+1138 Budapest, Jakab J. u. 2-4.
+1157 Budapest, Erdőkerülő u. 34.
+1181 Budapest, Kondor Béla sétány 17.
+1238 Budapest, Grassalkovich út  130.
+9737 Bük, Baross u. 11.
+1037 Budapest, Újvár u. 2.
+6500 Baja, Móra F. u. 1-3.( Pokorny u.1-3)
+7775 Magyarbóly, Damjanich u.9.
+5462 Cibakháza, Szabadság tér 6.
+2422 Mezőfalva, Kinizsi u.20.
+5744 Kevermes, Jókai u. 3.
+6237 Kecel, Szabadság tér 11.
+4765 Csenger, Ady E. u. 22.
+9735 Csepreg, Kossuth L. út. 67.
+6640 Csongrád, Gyöngyvirág u. 7-9.
+6622 Nagymágocs, Szentesi út. 2.
+6782 Mórahalom, Szegedi út 1.
+6760 Kistelek, Kossuth u. 41.
+6786 Ruzsa, Pipacs tér 6.
+6900 Makó, Batthyány u. 23.
+6923 Óföldeák, Návay u. 2.
+5920 Csorvás, Rákóczi u. 15.
+4032 Debrecen, Pallagi u. 9.
+4030 Debrecen, Szávay Gyula u. 55/F
+3441 Mezőkeresztes, Május 1. tér 7.
+4552 Napkor, Kállói út 58.
+4320 Nagykálló, Kossuth u. 40.
+4244 Újfehértó, Kodály Zoltán u.39.
+5836 Dombegyház, Tavasz u. 3.
+7200 Dombóvár, Arany János tér 2.
+7200 Dombóvár, Szabadság u. 6.
+7200 Dombóvár, III. u. 22.
+7761 Kozármisleny, Széchenyi u.2/b
+3360 Heves, Fő út 63.
+7100 Szekszárd, Mérey u. 33-35.
+7100 Szekszárd, Kadarka u. 74/c.
+2510 Dorog, Otthon tér 3.
+7900 Szigetvár, József A. u. 69-71.
+6640 Csongrád, Vasút u.92.
+3123 Cered, Rákóczi út 30.
+8000 Székesfehérvár, Farkasvermi u. 40.
+5430 Tiszaföldvár, Baross körút 109-111.
+8130 Enying, Szabadság tér 2.
+7000 Sárbogárd, Ady E. u. 39-41.
+5440 Kunszentmárton, Köttön út 21.
+5065 Nagykörü, Szabadság út 2.
+8130 Enying, Hősők tere 5.
+5516 Körösladány, Simai u.2.
+2400 Dunaújváros, Dunasor 15.
+2400 Dunaújváros, Barátság út  27.
+6060 Tiszakécske, Vörösmarty u. 11.
+3980 Sátoraljaújhely, Köveshegy  20.
+2100 Gödöllő, Ady Endre sétány  56.
+8800 Nagykanizsa, Teleki u. 19/b
+8000 Székesfehérvár, Farkasvermi u. 40.
+8000 Székesfehérvár, Hosszúséta tér 12.
+8000 Székesfehérvár, Rákóczi u. 34.
+4562 Vaja, Lahner u. 25/a
+3600 Ózd, Susai u. 23-24.
+9700 Szombathely, Várköz 1.
+9081 Győrújbarát, Fő u.12.
+8200 Veszprém, Sólyi u. 20.
+2220 Vecsés, Telepi út 10.
+4405 Nyíregyháza, Tallér u. 4.
+4400 Nyíregyháza, Korányi Frigyes u. 160/A
+4220 Hajdúböszörmény, Külső-Hadházi u.1.
+1135 Budapest, Kerekes J. u. 12-20. I-IV.em.
+3860 Encs, Ady E.u.1.
+5122 Jászdózsa, Kossuth u.15.
+6625 Fábiánsebestyén, Szabadság út 1.
+8721 Vése, Fő u. 78. (0364/1)
+2028 Pilismarót, Basaharc
+2241 Sülysáp , Vasút u. 42.
+9025 Győr, Péterfy S. u. 5.
+5661 Újkígyós, Petőfi u.26-28.
+1139 Budapest, Hajdú u. 46. IV-V. em.
+7432 Hetes, Vikár u.74/c
+9400 Sopron, Kisfaludy u.10.
+4220 Hajdúböszörmény, Dorogi u. 91.
+3360 Heves, Kolozsvári út 10/A
+7017 Mezőszilas, Fő u. 55.
+2433 Sárosd, Szabadság tér 1.
+8074 Csókakő, Tölgyfa u.2.
+6447 Felsőszentiván, Rákóczi u. 81.
+4100 Berettyóújfalu, Árpád u. 1.
+4621 Fényeslitke, Petőfi u.27.
+3170 Szécsény, Haynald u.12.
+2300 Ráckeve, Szitakötő u. 2.
+5600 Békéscsaba, Felsőnyomás 271.
+8083 Csákvár, Kastélypark 5.
+1192 Budapest, Mészáros L. u. 26.
+1182 Budapest, Alacskai út 22.
+1201 Budapest, Virág B. u. 36.
+5700 Gyula, Vértanúk útja 1-5.
+1071 Budapest, Dózsa Gy. u. 82/b
+1103 Budapest, Óhegy u. 48.
+1213 Budapest, Tapló u. 1.
+1121 Budapest, Zugligeti u. 58.
+1115 Budapest, Bánk Bán u. 12-20.
+8153 Polgárdi-Ipartelepek, Somlyói u. 2.
+2100 Gödöllő, Dózsa Gy. út 65.
+2635 Vámosmikola, Ipolysági út 9-11.
+9700 Szombathely, Bogáti u. 72.
+1102 Budapest, Halom u.31.
+1173 Budapest, Pesti út 117.
+1047 Budapest, Baross u. 100.
+1046 Budapest, Csokonai u. 38.
+1044 Budapest, Béla u. 18.
+1112 Budapest, Rupphegyi u. 7.
+1103 Budapest, Gergely u. 85.
+1125 Budapest, Kútvölgyi út 20-22.
+1031 Budapest, Ányos u. 3.
+2025 Visegrád, Mogyoróhegy u. 10.
+1112 Budapest, Kamaraerdei út 16.
+1064 Budapest, Rózsa u. 67.
+1092 Budapest, Knézich u. 14.
+2700 Cegléd, Törteli u. 14.
+6700 Szeged, Derkovits fasor 15-17.
+3245 Recsk, Ércbányatelep u. 3.
+3529 Miskolc, Gesztenyés u. 16.
+9400 Sopron , Faller Jenő u.2.
+8414 Olaszfalu, Felsőpere 1.
+2638 Kemence, Fő u. 97.
+2628 Szob, Árpád u.15.
+2639 Bernecebaráti, Széchenyi u. 75.
+4146 Újiráz, Petőfi u. 19.
+3378 Mezőszemere, Somogyi u. 4.
+2769 Tápiószőlős, Kossuth L. u. 77.
+9444 Fertőszentmiklós, Ifjuság tér 2.
+4275 Monostorpályi, Kossuth u.50.
+8431 Bakonyszentlászló, László király u.10.
+4327 Pócspetri, Pócsi u 13.
+8878 Lovászi, Petőfi S. u. 1.
+8900 Zalaegerszeg, Landorhegyi u. 13/A
+8851 Gyékényes, Szabadság tér 63.
+4732 Cégénydányád, Zrinyi u.58/C
+5537 Zsadány, Attila körút 19.
+2626 Nagymaros, Vasút u.6.
+5932 Gádoros, Fő u. 30.
+8083 Csákvár, Szent István u. 13.
+6066 Tiszaalpár, Dózsa Gy. u.71.
+5666 Medgyesegyháza, Kossuth tér 5.
+7555 Csokonyavisonta, Xantus u. 45.
+5123 Jászárokszállás, Móczár Andor tér 7.
+6646 Tömörkény, Ifjuság u.8.
+3860 Encs, Táncsics u. 2.
+2112 Veresegyház, Budapesti út 96-98.
+8330 Sümeg, Kossuth u. 2.
+8900 Zalaegerszeg, Pais Dezső u.2.
+8751 Zalakomár, Péczely köz 1.
+6456 Madaras, Báthory  u. 11.
+8600 Siófok-Kiliti, Béke tér 2.
+1011 Budapest, Fő utca 41.
+1182 Budapest, Marosvásárhely u. 27.
+9431 Fertőd, Mentes Mihály. u. 1/b.
+4110 Biharkeresztes, Nagy S.u.11-13.
+8391 Sármellék, Szent Erzsébet u.1.
+2500 Esztergom, Visegrádi út hrsz
+7150 Bonyhád, Bank u.3.
+5820 Mezőhegyes, Komlósi u. 14.
+5948 Kaszaper, Komlósi u. 5.
+5662 Csanádapáca, Horváth L.tér 5.
+9024 Győr, Répce u. 8/b
+9022 Győr, Apáca u. 27.
+9028 Győr, Cuha u.30.
+9026 Győr, Kálóczy tér 9-11.
+9028 Győr, Mohi u. 4.
+9311 Pásztori, Alsó u.39-41.
+9346 Magyarkeresztúr, Kossuth L.u.56-57.
+9482 Nagylózs, Zrínyi u. 2.
+9375 Csáfordjánosi, Béke u.17.
+9021 Győr, Káptalandomb 26.
+4545 Gyulaháza, Petőfi u. 53.
+7227 Gyulaj, Magyar u. 9.
+2045 Törökbálint, Liszt F. u. 10/a.
+4080 Hajdúnánás, Köztársaság tér 12.
+4080 Hajdúnánás, Polgári u.12.
+4080 Hajdúnánás, Fürdő u.1.
+4060 Balmazújváros, Nagyhát tanya 28.
+4212 Hajdúszovát, Sallai u.4.
+6400 Kiskunhalas, Nyúl u. 5-7.
+6422 Tompa, Szabadság tér 4.
+6421 Kisszállás, Iskola u. 20-22.
+6136 Harkakötöny, Ady E. u. 8.
+2462 Martonvásár, Szent László u. 11.
+2230 Gyömrő, Táncsics M. u. 2/A.
+8087 Alcsútdoboz, (sportpálya mellett)
+7064 Gyönk, Táncsics u. 473.
+7093 Értény, Barnahát puszta
+7092 Nagykónyi, Nagy u. 10.
+5700 Gyula, Kálvária sor  11.
+6098 Tass, Dózsa Gy, út, 10.
+3031 Zagyvaszántó, Selypi u. 2.
+3000 Hatvan, Kórház u. 3-5.
+3015 Csány, Csillag u. 27.
+3291 Vámosgyörk, István király u. 1.
+3300 Eger, Petőfi u. 26/b.
+3240 Parád, Toldi u.14.
+6800 Hódmezővásárhely, Serháztér u. 6.
+3792 Sajóbábony, Bocskai u. 3.
+6783 Ásotthalom, Királyhalmi u.2-4.
+4264 Nyírábrány, Határőr u.89.
+1214 Budapest, Simon Bolivár st.1/a
+2120 Dunakeszi, Kincsem köz 1.
+4800 Vásárosnamény, Bartók B.u.20/a
+5540 Szarvas, Bethlen G. u. 27-29.
+3300 Eger, Berva-völgye, 2. sz. lakótelep sz.ép.
+4450 Tiszalök, Kossuth u. 68.
+9375 Répceszemere, Fő u.28.
+2336 Dunavarsány, Erőspuszta
+4064 Nagyhegyes, Rákoczi u.2.
+7300 Komló, Jószerencsét u.32.
+5520 Szeghalom, Kossuth u. 18.
+3672 Borsodnádasd, Móricz Zs. u. 4.
+3950 Sárospatak, József A. u. 10.
+7213 Szakcs, Petőfi tér 10.
+7150 Bonyhád, Szabadság u. 2.
+8757 Csömödér, Rákóczi F. u. 33.
+4273 Hajdúbagos, Ovódaköz 1.
+4455 Tiszadada, Kossuth tér 4.
+8975 Szentgyörgyvölgy, Kossuth u.56.
+9083 Écs, Kápolna u.4.
+3600 Ózd, Dózsa Gy. u. 50.
+2016 Leányfalu, Szt. Imre Herceg u. 1.
+2030 Érd, Topoly  u. 2.
+1021 Budapest, Szerb A. u. 13-17.
+1051 Budapest, Nádor u. 6. III. em.
+9028 Győr, Lepke u.37.
+2760 Nagykőrös, Arany J. u. 35.
+7751 Szederkény, Pécsi u. 23.
+7300 Komló, Mecsekjánosi puszta 3.
+6136 Harkakötöny, Bem u. 2.
+2700 Cegléd, Bajcsy Zs. u. 1.
+3281 Karácsond, Szent István u.37.
+7275 Igal, Farkas János u. 1-3.
+1201 Budapest, Vörösmarty u. 56.
+8788 Zalaszentlászló, Széchenyi u.2.
+4400 Nyíregyháza, Rozsnyó u. 33.
+8623 Balatonföldvár, Széchenyi u. 2.
+2081 Piliscsaba, Béla király utja  96.
+2081 Piliscsaba, Kálmán kir. u. 15.
+9091 Ravazd, Paphegy u. 1.
+4741 Jánkmajtis, Kossuth u. 2.
+5231 Fegyvernek, Angolkert út 1.
+5130 Jászapáti, Juhász M.u.2-4.
+5130 Jászapáti, Hősök tere 7.
+5126 Jászfényszaru, Bajcsy Zs. út 7.
+2119 Pécel, Pesti u. 2.
+6200 Kiskőrös, Rákóczi u. 165.
+7754 Bóly, Hősök tere 4.
+4183 Kaba, Cukorgyári Lakótelep
+2730 Albertirsa, Dózsa Gy. út. 7.
+8282 Mindszentkálla, Rákoczi út 16.
+6300 Kalocsa, Kunszt J. u. 14.
+6300 Kalocsa, Bem apó. u. 19.
+8083 Csákvár, Kálvin u.11.
+1125 Budapest, Nógrádi u.12-14.
+8315 Gyenesdiás, Béke u. 43.
+5300 Karcag, Horváth Ferenc u. 1. sz.
+5310 Kisújszállás, Téglagyár út 10.
+7833 Görcsöny, Hársfa u. 6.
+7833 Görcsöny, Keresztespuszta (telephely)
+9147 Dör, Kossuth Lajos u. 47.
+5100 Jászberény, Ferencesek tere 1.
+3700 Kazincbarcika, Jószerencsét u.8.
+3700 Kazincbarcika, Gyermekek u. 2.
+3700 Kazincbarcika, Gyermekek útja 4.
+2133 Sződliget, Duna-part 2. 
+6423 Kelebia, József A. u. 75.
+5083 Kengyel, Kossuth út 83.
+5742 Elek, Szent István u. 28.
+8093 Lovasberény, Kossuth L. u. 38-40.
+8360 Keszthely, Csók István u. 1/a.
+3600 Ózd, Szent I. u. 10.
+3600 Ózd, Bulcsú u. 1.
+3600 Ózd, Bólyki főút 11.
+3200 Gyöngyös, Dózsa György út 20-22.
+3325 Noszvaj, Szomolyai út 0214/18 hrsz.
+6200 Kiskőrös, Sárkány J. u. 13.
+4325 Kisléta, Bogáti u. 7.
+7257 Mosdós, Petőfi S. u. 4.
+6090 Kunszentmiklós, Felsőszenttamás dülő 8.
+9200 Mosonmagyaróvár, Soproni u. 65.
+9200 Mosonmagyaróvár, Lengyári u. 2.
+9200 Mosonmagyaróvár, Soproni u. 65.
+4300 Nyírbátor, Fáy András út 17/d.
+4561 Baktalórántháza, Zrinyi u.1/b
+2900 Komárom, Árpád u. 2-4.
+4138 Komádi, Köztársaság u. 11.
+5553 Kondoros, Endrődi u. 2.
+7285 Törökkoppány, Ady E.u.12.
+4440 Tiszavasvári, Vasvári Pál u.87.
+6065 Lakitelek, Béke u. 20.
+8460 Devecser, Petőfi tér 5.
+2071 Páty, Erkel utca 18.
+1172 Budapest, Liget sor 46.
+8053 Bodajk, Fehérvári út 12.
+2541 Lábatlan, Honvéd út 4-6.
+7144 Decs, Öreg u.68.
+1173 Budapest, XVII. Uszoda u. 3.
+3400 Mezőkövesd, Rákóczi u. 21.
+7342 Mágocs, Szabadság u. 3-4.
+8960 Lenti, Templom tér 11.
+8868 Letenye, Petőfi S. u. 40.
+8796 Türje, Szabadság tér 20.
+3535 Miskolc, Köln u. 2.
+3102 Salgótarján, Petőfi u.92-94.
+3100 Salgótarján, Füleki út 52.
+7530 Kadarkút, Vóta kastély
+4137 Magyarhomorog, Árpád u.47.
+6200 Kiskőrös, Szűcs József  u. 12.
+4220 Hajdúböszörmény, Batthyány u. 30.
+6000 Kecskemét, Nyíri út 77/a.
+3528 Miskolc, Bornemisza u.13.
+3232 Mátrafüred, Üdülősor 7.
+3400 Mezőkövesd, Damjanich út 2.
+4835 Mátyus, Kossuth u. 14.
+2132 Göd, Regős u. 27.
+8300 Tapolca, Arany János u. 8.
+4032 Debrecen, Nagyerdei krt. 64.
+4765 Csenger, Béke utca 2.
+8400 Ajka, Frankel L. u. 8.
+6449 Mélykút, Hunyadi u. 31.
+2092 Budakeszi, Rákóczi u. 2.
+7361 Kaposszekcső, Napsugár u. 17.
+3400 Mezőkövesd, Bogácsi u. 4.
+3400 Mezőkövesd, Mátyás király út 90.
+5400 Mezőtúr, Kiss János út 6.
+5400 Mezőtúr, Szolnoki út 18.
+6300 Kalocsa, Petőfi S. u. 2.
+4271 Mikepércs, Forrás tanya 42.
+4485 Nagyhalász, Arany J.u.100.
+3534 Miskolc, Fazola Henrik u. 4.
+3534 Miskolc, Kacsoh Pongrác út 6.
+3534 Miskolc, Kis tábornok út 32.
+3526 Miskolc, Szentpéteri kapu 101.
+3533 Miskolc, Kórház u.1.
+3533 Miskolc, Kabar u. 4.
+7700 Mohács, Gólya u. 42.
+7700 Mohács, Gólya u.15.
+7728 Somberek, Dózsa Gy. u. 19.
+4181 Nádudvar, Petri-Derzs u.6-8.
+3980 Sátoraljaújhely, Pataki u. 21.
+4326 Máriapócs, Kossuth tér 16.
+8935 Nagykapornak, Kisfaludy u. 2.
+4281 Létavértes, Kossuth u. 2.
+2458 Kulcs, Rózsahegyi út 3.
+2454 Iváncsa, Fő út 28.
+2030 Érd, Kende u. 4-8.
+2030 Érd, Árpád u. 26.
+1083 Budapest, Illés u. 38.
+nincs adat Érd, Fő u.71-73.
+8330 Sümeg, Kompanik Zsófia u. 6/1.
+3519 Miskolc, Miskolctapolcai u. 37.
+5742 Elek, Gyulai u. 15.
+5100 Jászberény, Hatvani út 35.
+2071 Páty, Munkás tér 20-22.
+5700 Gyula, Galamb u. 21.
+7960 Sellye, Aradi u. 1.
+7741 Nagykozár, Kossuth L. u. 28.
+7020 Dunaföldvár, Hunyadi park 5.
+2112 Veresegyház, Árpád u. 1.
+2011 Budakalász, Klisovác u.34.
+3580 Tiszaújváros, Rózsa u.16.
+3078 Bátonyterenye, Makarenkó út 24.
+3147 Mizserfa, Május 1. út 82.
+4372 Nyírbéltelk, Ady E.u.70.
+4511 Nyírbogdány, Kéki u. 1-3.
+4431 Nyíregyháza-Sóstófürdő, Tölgyes u. 11.
+4400 Nyíregyháza, Etel köz 11-13.
+4551 Nyíregyháza-Oros, Rozsnyai út 8.
+4400 Nyíregyháza, Pacsirta u. 29-35.
+2316 Tököl, Pesti u. 1.
+4311 Nyírgyulaj, Bajcsy Zs. u. 17.
+4544 Nyírkarász, Fő u. 106.
+4531 Nyírpazony, Árpád u.79.
+4484 Ibrány, Lehel u.43-45.
+4353 Tiborszállás, Vadaskert u. 1.
+4461 Nyírtelek, Puskin u. 2-4.
+4533 Sényő, Kossuth u.22.
+4532 Nyírtura, Rákóczi F. u. 58.
+6411 Zsana, Új u.61.
+2424 Előszállás, Baross  Gábor  tér 1.
+2235 Mende, Fő u.15.
+1038 Budapest, Zipernovszky u. 1-3.
+4558 Ófehértó, Szent István u. 27.
+1214 Budapest, Tejút u. 1.,  Rakéta u. 7-11.
+1084 Budapest, Mátyás tér 6.
+2045 Törökbálint, Kazinczy út 111.
+1154 Budapest, Bánkút u. 67-69.
+1149 Budapest, Vezér u.151-155.
+1029 Budapest, Szent József u. 8.
+1062 Budapest, Lendvay u.13.
+2330 Dunaharaszti, Fő u.50- 52.
+6120 Kiskunmajsa, Fő u. 2.
+3743 Ormosbánya, Ady E. u. 33.
+5900 Orosháza, Kettőssánc tér 10.
+5900 Orosháza, Táncsics u. 8.
+5900 Orosháza, Teréz u. 14.
+7345 Alsómocsolád, Rákoczi u.74.
+8708 Somogyfajsz, Kastélykert 1.
+2870 Kisbér, Deák F. u. 69.
+3881 Abaújszántó, Petőfi u.18.
+5475 Csépa, Rákóczi út 15.
+8784 Kehidakustány, Petőfi S.u.93.
+7355 Nagymányok, József A. u. 8/c
+7354 Váralja, Kossuth L.u.129.
+6000 Kecskemét, Nyíri u.77/a
+5540 Szarvas, Rákóczi u. 25.
+5541 Szarvas, Vajda P. u. 7.
+5551 Csabacsüd, Petőfi u.51-53.
+5055 Jászladány, Kossuth L.u.106.
+5055 Jászladány, Kossuth L. út 116.
+7400 Kaposvár, Füredi u. 53.
+8182 Berhida-Peremarton-gyártelep, Hasrangvirág u.1.
+8500 Pápa, Vörösmarty u. 12.
+8500 Pápa, Barát u. 3. és 4-6.
+8500 Pápa, Teveli u. 3.
+3060 Pásztó, Sport út 4-6.
+7362 Vásárosdombó, Margitmajor 9.
+7623 Pécs, Tüzér u. 7.
+7624 Pécs, Szent István tér 13.
+7720 Pécsvárad, Dózsa Gy. u. 2/a.
+2533 Bajót, Péliföldszentkereszt hrsz: 078.
+2711 Tápiószentmárton, Ady E. u. 35.
+2750 Nagykőrös, Ady Endre u. 16.
+2119 Pécel, Ady E.u.8.
+2251 Szentlőrinckáta, Kossuth L. u. 20.
+2194 Tura, Szent I.u.79.
+2111 Szada, Kisfaludy u.4.
+2300 Kiskunlacháza, Külsőráckevei út 194.
+2300 Ráckeve, Kazinczy u.23.
+1201 Budapest, Nagy Györy István u.29-31/a
+3250 Pétervására, Ifjúság u. 7.
+3433 Nyékládháza, Vasút u. 2/a
+6640 Csongrád, Szent Imre u. 19.
+2096 Üröm, Dózsa Gy. út 30.
+8044 Kincsesbánya, József A.u.13.
+7191 Hőgyész, Ady E. u. 4.
+3388 Poroszló, Alkotmány u. 7.
+2016 Leányfalu, Móricz Zsigmond u. 177.
+4465 Rakamaz, Szent István u. 131.
+4961 Zsarolyán, Fő u. 16.
+5501 Gyomaendrőd, Fő u. 167-169.
+4150 Püspökladány, Karcagi u. 26.
+5530 Vésztő, Bartók tér 6.
+5322 Tiszaszentimre, Kossuth 2. (az otthon a Samu Kastély külterületen van )
+6647 Csanytelek, Kossuth u.39.
+4501 Kemecse, Szent I. u. 43.
+7551 Lábod, Kossuth u. 43.
+7500 Nagyatád, Széchenyi tér 3-4.
+8083 Csákvár, Szent Vince u. 2.
+2621 Verőce, Migazzi u. 1.
+6066 Tiszaalpár, Istvánújfalu 87.
+2654 Romhány, Zrínyi u. 2.
+3770 Sajószentpéter, Somogyi Béla út 2-4.
+8181 Berhida, Honvéd u. 16-18.
+7000 Sárbogárd, Tompa M.u.44.
+5721 Sarkad, Gyulai út  8.
+2624 Szokolya, Fő út 44-46.
+1146 Budapest, Hermina  u.51.
+1195 Budapest, József A. u. 77.
+1028 Budapest, Patakhegyi u. 83-85.
+4400 Nyíregyháza, Széchenyi u.15.
+7800 Siklós, Járó P. u.42.
+1196 Budapest, Esze T. u. 123.
+8600 Siófok, Korányi u. 1/a.
+2244 Úri, Rákóczi u. 37.
+6230 Soltvadkert, Bocskai u.12.
+8660 Tab, Kossuth u.107.
+7463 Patalom, Bucsi Ignác u. 1.
+7562 Segesd, Kossuth u. 1.
+7538 Kálmáncsa, Kossuth u. 1.
+7531 Kőkút-Gyöngyöspuszta, 7531 Kőkút - Gyöngyöspuszta, Gyöngyöspuszta 1.
+7516 Berzence, Lakótelep 3.
+7443 Somogyjád, Fő utca 8.
+9400 Sopron, Szent Margit u.2.
+9400 Sopron, Balfi u. 80.
+9400 Sopron, József A. u. 5.
+4400 Nyiregyháza, Hősők tere 5.
+4352 Mérk, Hunyadi u.183.
+4752 Győrtelek, Kossuth L. u. 141.
+4700 Mátészalka, Móricz Zs. u. 73.
+6724 Szeged, Zákány u. 25.
+6722 Szeged, Jósika u. 20.
+5510 Dévaványa, Jéggyár u. 47.
+9022 Győr, Apáca u. 41.
+4972 Gacsály, Petőfi u.29.
+5675 Telekgerendás,  Tanya 273.
+9024 Győr, Öveges József út 7.
+2049 Diósd, Apponyi u. 10-12.
+4233 Balkány, Kossuth u.28.
+9107 Tét, Fő u.73.
+2944 Bana, Zrinyi M.u.3.
+1224 Budapest, Dózsa Gy. u. 98.
+8420 Zirc, Köztársaság u.2.
+2524 Nagysáp, Granárium domb 1.
+3704 Berente, Ady Endre u. 7-11.
+7300 Komló, Liliom u. 9.
+7300 Komló, Pécsi út 42.
+2660 Balassagyarmat, Markusovszky út 1.
+3000 Hatvan, Mártirok útja 3.
+2335 Taksony, Szent Imre u.10.
+4030 Debrecen, Tátra u.2-6.
+5661 Újkígyós, Radnóti u. 1/1.
+3508 Miskolc, Szeretet u. 15.
+5925 Gerendás, Petőfi u. 5.
+3232 Mátrafüred, Üdülősor  29.
+2421 Nagyvenyim, Táncsics M. u. 6.
+2534 Tát, Szent György tér 1.
+4446 Mándok, Mónus Illés u. 20/b.
+2737 Ceglédbercel, Pesti u. 50.
+5800 Mezőkovácsháza, Vásárhelyi u. 2.
+1214 Budapest, Béke tér 13.
+2083 Solymár, Rákóczi u. 4.
+4220 Hajdúböszörmény, Apaffy M. u. 106.
+3751 Szendrőlád, Dózsa Gy.út 1.
+8330 Sümeg, Rendeki út 14.
+4405 Nyíregyháza, Tünde u. 18.
+3232 Mátrafüred, Hegyalja út 7.
+2536 Nyergesújfalu, Kossuth L. u. 3.
+9661 Vasegerszeg, Rákóczi u. 39/A
+4446 Mándok, Mónus Illés u.20.
+4341 Nyírvasvári, Bátori u. 3.
+1085 Budapest, Mária u. 20.
+6600 Szentes, Kossuth tér 4.
+5700 Gyula, Széchenyi u. 63.
+3526 Miskolc, Eperjesi u.5.
+8100 Várpalota, Honvéd u. 2.
+7621 Pécs, Tímár u. 5.
+2315 Szigethalom, Rákóczi F. u. 147.
+1108 Budapest, Újhegyi sétány 1-3.
+2767 Tápiógyörgye, Deák F. u. 12.
+3426 Borsodgeszt, Fő u.57.
+6100 Kiskunfélegyháza, Nádasdy u. 12.
+4564 Nyírmada, Petőfi u.1.
+3022 Lőrinci, Erőmű tér 37.
+7144 Decs, Ady E. u. 6.
+8700 Marcali, Noszlopy G. u. 1.
+4946 Tiszakóród, Kossuth u.45.
+7695 Mecseknádasd, Rákóczi u. 2.
+6440 Jánoshalma, Hunyadi L.2.
+7815 Harkány, Ady E. u. 34./b
+4644 Mándok, Petőfi út 23.
+1013 Budapest, Krisztina krt. 61/a.
+3800 Szikszó, Bethánia köz 6.
+2451 Ercsi, Lejtő sor 1.
+7940 Szentlőrinc, Munkácsy M. u. 1-3.
+6455 Katymár, Szent István király  u. 28.
+3783 Edelény, Árpád út. 29.
+4124 Esztár, Árpád u. 23.
+4274 Hosszúpályi, Debreceni u. 2/c
+4287 Vámospércs, Nagy u. 28.
+4126 Kismarja, Fő u.16.
+4502 Vasmegyer, Kossuth u.104.
+7400 Kaposvár, Vak Bottyán u. 1.
+5000 Szolnok, Vízpart krt. 3.
+5000 Szolnok, Eötvös tér 7.
+5000 Szolnok, Kaán K. út 20.
+5000 Szolnok, Abonyi út 32.
+5085 Rákoczifalva, Kossuth u.13.
+5948 Kaszaper-Pusztaszőlős, Dózsa tér 7.
+9700 Szombathely, Középhegyi út 1.
+9700 Szombathely, Körmendi u. 2.
+1029 Budapest, Báthori L. u. 8.
+2143 Kistarcsa, Szt. László u. 2.
+2457 Adony, Kossuth L.u.15.
+8184 Balatonfüzfő, Gagarin u.22.
+2760 Nagykáta, Petőfi S. u. 4/a.
+3258 Tarnalelesz, Szabadság u. 48.
+2800 Tatabánya, Május 1. park 1.
+2800 Tatabánya, Cseri u. 34.
+2890 Tata, Fényes Fasor 2.
+6066 Tiszaalpár, Ady E. u. 94.
+2089 Telki, Kórház fasor 1.
+8380 Héviz, Honvéd u.2.
+5501 Gyomaendrőd, Mirhóháti u.8.
+5501 Gyomaendrőd, Mirhóháti u. 1-5.
+5501 Gyomaendrőd, Blaha u.2- 6.
+5501 Gyomaendrőd, Kondorosi út 1.
+5350 Tiszafüred, Bajcsy Zs. út 50/a.
+5464 Tiszainoka, Felszabadulás út 15.
+4831 Tiszaszalka, Bajcsy Zs. u. 11.
+3580 Tiszaújváros, Bartók Béla u. 1-3.
+4933 Beregsurány, Árpád u.52.
+3910 Tokaj, Bodrogkeresztúri út 52.
+7020 Dunaföldvár, Paksi u. 70.
+7150 Szekszárd, Palánki u. 2.
+7140 Bátaszék, Bezerédi u. 13.
+2484 Agárd, Tópart u. 13.
+5451 Öcsöd, Hunyadi út 57.
+5940 Tótkomlós, Széchenyi u. 18.
+5940 Tótkomlós, Fő u. 43.
+2660 Balassagyarmat, Deák Ferenc út 22.
+7255 Nagyberki, Fő u.13.
+1115 Budapest, Fraknó u. 7.
+1042 Budapest, Liszt F. u. 7.
+9323 Jobaháza, Kossuth u.8.
+8452 Szőc, Határvölgy 1.
+8596 Pápakovácsi, Attyapuszta 4.
+9097 Mezőörs, Fő u.66.
+9100 Tét, Fő utca 129/a.
+2600 Vác, Burgundia u. 9-11.
+2600 Vác, Rádi u. 48/a.
+2600 Vác, Arany J. u. 1-3.
+2310 Szigetszentmiklós, Kossuth L . u. 19.
+2440 Százhalombatta, Liszt Ferenc sétány 4.
+3630 Putnok, Szkala B. u. 20.
+9970 Szentgotthárd, Arany J. u. 3.
+5650 Mezőberény, Puskin u. 1.
+2085 Pilisvörösvár, Rákóczi u. 5.
+4900 Fehérgyarmat, Tömöttvár u. 29-31.
+9746 Acsád, Semmelweis tér. 1.
+9631 Hegyfalu, Kossuth u. 2. 
+9730 Kőszeg, Kálvária u. 14.
+9730 Kőszeg, Munkácsy u. 15.
+9739 Kőszegpaty, Kossuth u. 5.
+9734 Peresznye, Hunyadi u. 85.
+9632 Sajtoskál, Rákoczi u.1.
+9700 Szombathely, Gagarin u. 5.
+9825 Oszkó, Petőfi S. u. 1/A.
+9800 Táplánszentkereszt, Táncsis M.u.22.
+9800 Vasvár, Petőfi u.14.
+6521 Vaskút, Damjanich u. 75.
+2112 Veresegyház, Fő u.106.
+4283 Létavértes, Irinyi u. 7.
+9532 Külsővat, Béri B. Á. u. 1.
+8200 Veszprém, Török Ignác u. 10.
+3232 Mátrafüred, Üdülősor 58.
+3132 Nógrádmegyer, Petőfi út 139.
+1112 Budapest, Dayka G. u. 102-104.
+5052 Újszász, Akácfa út 90.
+8900 Zalaegerszeg, Külsőkórház u. 2.
+8798 Zalabér , Templom tér 1.
+8900 Zalaegerszeg, Gasparich u.3.
+2373 Dabas-Gyón, Zárda köz 6.
+7472 Szentbalázs, Fő u.96.
