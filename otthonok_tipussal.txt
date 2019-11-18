@@ -1,0 +1,709 @@
+1027 Budapest, Bem J. tér 2. | önkormányzat
+5241 Abádszalók, Kossuth L. út 6/b. | önkormányzati társulás
+2118 Dány, Szabadság út 79. | egyéb gazdasági társaság
+2317 Szigetcsép, Fő út 50. | egyéb gazdasági társaság
+8136 Lajoskomárom, Jókai u. 8. | evangélikus egyház
+7030 Paks, Akác u.6. | non-profit szervezet
+4262 Nyíracsád, Petőfi tér 4. | önkormányzat
+3351 Verpelét, Szabadság tér 6. | önkormányzat
+5474 Tiszasas, Fő út 13. | önkormányzat
+4737 Kisnamény, Kis u.20. | önkormányzat
+1204 Budapest, Akácfa u. 39. | non-profit szervezet
+1204 Budapest, Kövező u. 4. | non-profit szervezet
+4200 Hajdúszoboszló, Kálvin tér 9. | református egyház
+8700 Marcali, Templom u. 4. | alapítvány
+8623 Balatonföldvár, Spúr I. u. 6. | non-profit szervezet
+8111 Seregélyes-Szőlőhegy,Öreghegy 65/A-B, nincs adat | egyesület
+6070 Izsák, Kossuth u.49. | non-profit szervezet
+2340 Kiskunlacháza, Móricz Zsigmond u. 36. | egyesület
+1106 Budapest, Jászberényi út 82. | egyesület
+2094 Nagykovácsi, Nádas u. 3. | alapítvány
+6035 Ballószög, V. körzet . 168. | közhasznú alapítvány
+1039 Budapest, Batthyány u. 45. | non-profit szervezet
+3416 Tard, Nagymajor u. 1. | non-profit szervezet
+2370 Dabas, Szt. István út 63. | önkormányzat
+6430 Bácsalmás, Dugonics u. 35. | állam
+6000 Kecskemét, Szent László város 1. | állam
+6454 Bácsborsód, Dózsa Gy. u. 9. | állam
+6527 Nagybaracska, Mohácsi u. 6. | állam
+4286 Bagamér, Bocskai u. 10, 15. | református egyház
+9145 Bágyogszovát, Szabadság u. 79. | önkormányzat
+8581 Bakonyjákó, Üttőrő u.7. | non-profit szervezet
+6725 Szeged, Harmat u. 2. | katolikus egyház
+4233 Balkány, Ságvári u. 33. | katolikus egyház
+4060 Balmazújváros, Veres P.u.57. | önkormányzat
+4060 Balmazújváros, Kossuth u. 48. | református egyház
+7628 Pécs, Barátság u. 18. | egyéb egyház
+7624 Pécs, Xavér u. 10. | egyéb egyház
+7624 Pécs, Alkotmány u. 77. | egyéb egyház
+7636 Pécs, Malomvölgyi u. 21. | egyéb egyház
+7570 Barcs, Bajcsy-Zs. u. 32-34. | önkormányzat
+2883 Bársonyos, Pervátpuszta 1. | önkormányzat
+2730 Albertirsa, Köztársaság u. 129-135. | non-profit szervezet
+3900 Szerencs, Bekecsi u. 10. | állam
+2071 Páty, Csilla von Boeselager u. 3. | katolikus egyház
+5630 Békés, Farkas Gy. u. 2. | állam
+5525 Füzesgyarmat, Kossuth u. 86. | állam
+5530 Vésztő, Kossuth L.u.192. | állam
+5534 Okány, Kastélykert 4. | állam
+5931 Nagyszénás, Táncsics u. 3. | állam
+3324 Felsőtárkány, Kisfaludy u. 14. | alapítvány
+5600 Békéscsaba, Lencsési út 85. | önkormányzat
+5600 Békéscsaba, Berényi út 125. | evangélikus egyház
+5600 Békéscsaba, Ady E. u. 30-34. | többcélú kistérségi társulás
+5600 Békéscsaba, Bartók B.út. 12. | többcélú kistérségi társulás
+5600 Békéscsaba, Csaba u. 3. | többcélú kistérségi társulás
+5561 Békésszentandrás, Kálvin u. 10. | önkormányzat
+3346 Bélapátfalva, Petőfi u. 25. | állam
+4231 Bököny, Debreceni út 52-54. | többcélú kistérségi társulás
+4968 Túrricse, Zrínyi u. 2. | önkormányzat
+6064 Tiszaug, Rákóczi u. 49. | önkormányzat
+4836 Lónya, Árpád u. 91. | önkormányzat
+7827 Beremend, Gorkij fasor 1-5. | önkormányzat
+5420 Túrkeve, Ecsegi út 13. | többcélú kistérségi társulás
+5071 Besenyszög, Szabadság tér 3. | többcélú kistérségi társulás
+2030 Érd, Gyula u. 39-47. | katolikus egyház
+3932 Erdőbénye, Kossuth u. 13. | református egyház
+3592 Nemesbikk, Petőfi u. 15. | református egyház
+4200 Hajdúszoboszló, Hőforrás u. 105/C | non-profit szervezet
+3916 Bodrogkeresztúr, Kastély köz 18. | állam
+2072 Zsámbék, Táncsics Mihály u.22. | önkormányzat
+2051 Biatorbágy, Boldog Gizella u 1. | alapítvány
+5530 Vésztő, Kossuth u.40. | többcélú kistérségi társulás
+1138 Budapest, Jakab J. u. 2-4. | önkormányzat
+1157 Budapest, Erdőkerülő u. 34. | önkormányzat
+1181 Budapest, Kondor Béla sétány 17. | önkormányzat
+1238 Budapest, Grassalkovich út  130. | önkormányzat
+9737 Bük, Baross u. 11. | önkormányzat
+1037 Budapest, Újvár u. 2. | non-profit szervezet
+6500 Baja, Móra F. u. 1-3.( Pokorny u.1-3) | református egyház
+7775 Magyarbóly, Damjanich u.9. | non-profit szervezet
+5462 Cibakháza, Szabadság tér 6. | önkormányzat
+2422 Mezőfalva, Kinizsi u.20. | non-profit szervezet
+5744 Kevermes, Jókai u. 3. | önkormányzat
+6237 Kecel, Szabadság tér 11. | alapítvány
+4765 Csenger, Ady E. u. 22. | többcélú kistérségi társulás
+9735 Csepreg, Kossuth L. út. 67. | önkormányzat
+6640 Csongrád, Gyöngyvirág u. 7-9. | állam
+6622 Nagymágocs, Szentesi út. 2. | állam
+6782 Mórahalom, Szegedi út 1. | állam
+6760 Kistelek, Kossuth u. 41. | állam
+6786 Ruzsa, Pipacs tér 6. | állam
+6900 Makó, Batthyány u. 23. | állam
+6923 Óföldeák, Návay u. 2. | állam
+5920 Csorvás, Rákóczi u. 15. | önkormányzat
+4032 Debrecen, Pallagi u. 9. | önkormányzat
+4030 Debrecen, Szávay Gyula u. 55/F | önkormányzat
+3441 Mezőkeresztes, Május 1. tér 7. | non-profit szervezet
+4552 Napkor, Kállói út 58. | többcélú kistérségi társulás
+4320 Nagykálló, Kossuth u. 40. | többcélú kistérségi társulás
+4244 Újfehértó, Kodály Zoltán u.39. | többcélú kistérségi társulás
+5836 Dombegyház, Tavasz u. 3. | önkormányzat
+7200 Dombóvár, Arany János tér 2. | önkormányzati társulás
+7200 Dombóvár, Szabadság u. 6. | önkormányzati társulás
+7200 Dombóvár, III. u. 22. | önkormányzati társulás
+7761 Kozármisleny, Széchenyi u.2/b | katolikus egyház
+3360 Heves, Fő út 63. | non-profit szervezet
+7100 Szekszárd, Mérey u. 33-35. | önkormányzati társulás
+7100 Szekszárd, Kadarka u. 74/c. | önkormányzati társulás
+2510 Dorog, Otthon tér 3. | önkormányzat
+7900 Szigetvár, József A. u. 69-71. | non-profit szervezet
+6640 Csongrád, Vasút u.92. | többcélú kistérségi társulás
+3123 Cered, Rákóczi út 30. | többcélú kistérségi társulás
+8000 Székesfehérvár, Farkasvermi u. 40. | önkormányzat
+5430 Tiszaföldvár, Baross körút 109-111. | önkormányzat
+8130 Enying, Szabadság tér 2. | önkormányzati társulás
+7000 Sárbogárd, Ady E. u. 39-41. | önkormányzat
+5440 Kunszentmárton, Köttön út 21. | önkormányzat
+5065 Nagykörü, Szabadság út 2. | többcélú kistérségi társulás
+8130 Enying, Hősők tere 5. | önkormányzati társulás
+5516 Körösladány, Simai u.2. | önkormányzat
+2400 Dunaújváros, Dunasor 15. | önkormányzat
+2400 Dunaújváros, Barátság út  27. | önkormányzat
+6060 Tiszakécske, Vörösmarty u. 11. | önkormányzat
+3980 Sátoraljaújhely, Köveshegy  20. | önkormányzat
+2100 Gödöllő, Ady Endre sétány  56. | önkormányzat
+8800 Nagykanizsa, Teleki u. 19/b | önkormányzati társulás
+8000 Székesfehérvár, Farkasvermi u. 40. | önkormányzat
+8000 Székesfehérvár, Hosszúséta tér 12. | önkormányzat
+8000 Székesfehérvár, Rákóczi u. 34. | önkormányzat
+4562 Vaja, Lahner u. 25/a | önkormányzat
+3600 Ózd, Susai u. 23-24. | katolikus egyház
+9700 Szombathely, Várköz 1. | katolikus egyház
+9081 Győrújbarát, Fő u.12. | alapítvány
+8200 Veszprém, Sólyi u. 20. | non-profit szervezet
+2220 Vecsés, Telepi út 10. | non-profit szervezet
+4405 Nyíregyháza, Tallér u. 4. | alapítvány
+4400 Nyíregyháza, Korányi Frigyes u. 160/A | evangélikus egyház
+4220 Hajdúböszörmény, Külső-Hadházi u.1. | egyéb egyház
+1135 Budapest, Kerekes J. u. 12-20. I-IV.em. | non-profit szervezet
+3860 Encs, Ady E.u.1. | állam
+5122 Jászdózsa, Kossuth u.15. | önkormányzat
+6625 Fábiánsebestyén, Szabadság út 1. | önkormányzat
+8721 Vése, Fő u. 78. (0364/1) | alapítvány
+2028 Pilismarót, Basaharc | katolikus egyház
+2241 Sülysáp , Vasút u. 42. | alapítvány
+9025 Győr, Péterfy S. u. 5. | evangélikus egyház
+5661 Újkígyós, Petőfi u.26-28. | önkormányzat
+1139 Budapest, Hajdú u. 46. IV-V. em. | egyesület
+7432 Hetes, Vikár u.74/c | önkormányzat
+9400 Sopron, Kisfaludy u.10. | evangélikus egyház
+4220 Hajdúböszörmény, Dorogi u. 91. | önkormányzat
+3360 Heves, Kolozsvári út 10/A | non-profit szervezet
+7017 Mezőszilas, Fő u. 55. | állam
+2433 Sárosd, Szabadság tér 1. | állam
+8074 Csókakő, Tölgyfa u.2. | állam
+6447 Felsőszentiván, Rákóczi u. 81. | katolikus egyház
+4100 Berettyóújfalu, Árpád u. 1. | non-profit szervezet
+4621 Fényeslitke, Petőfi u.27. | református egyház
+3170 Szécsény, Haynald u.12. | katolikus egyház
+2300 Ráckeve, Szitakötő u. 2. | egyéb egyház
+5600 Békéscsaba, Felsőnyomás 271. | alapítvány
+8083 Csákvár, Kastélypark 5. | non-profit szervezet
+1192 Budapest, Mészáros L. u. 26. | önkormányzat
+1182 Budapest, Alacskai út 22. | önkormányzat
+1201 Budapest, Virág B. u. 36. | önkormányzat
+5700 Gyula, Vértanúk útja 1-5. | önkormányzat
+1071 Budapest, Dózsa Gy. u. 82/b | önkormányzat
+1103 Budapest, Óhegy u. 48. | önkormányzat
+1213 Budapest, Tapló u. 1. | önkormányzat
+1121 Budapest, Zugligeti u. 58. | önkormányzat
+1115 Budapest, Bánk Bán u. 12-20. | önkormányzat
+8153 Polgárdi-Ipartelepek, Somlyói u. 2. | önkormányzat
+2100 Gödöllő, Dózsa Gy. út 65. | önkormányzat
+2635 Vámosmikola, Ipolysági út 9-11. | önkormányzat
+9700 Szombathely, Bogáti u. 72. | önkormányzat
+1102 Budapest, Halom u.31. | önkormányzat
+1173 Budapest, Pesti út 117. | önkormányzat
+1047 Budapest, Baross u. 100. | önkormányzat
+1046 Budapest, Csokonai u. 38. | önkormányzat
+1044 Budapest, Béla u. 18. | önkormányzat
+1112 Budapest, Rupphegyi u. 7. | önkormányzat
+1103 Budapest, Gergely u. 85. | önkormányzat
+1125 Budapest, Kútvölgyi út 20-22. | önkormányzat
+1031 Budapest, Ányos u. 3. | önkormányzat
+2025 Visegrád, Mogyoróhegy u. 10. | önkormányzat
+1112 Budapest, Kamaraerdei út 16. | önkormányzat
+1064 Budapest, Rózsa u. 67. | önkormányzat
+1092 Budapest, Knézich u. 14. | önkormányzat
+2700 Cegléd, Törteli u. 14. | non-profit szervezet
+6700 Szeged, Derkovits fasor 15-17. | egyéb gazdasági társaság
+3245 Recsk, Ércbányatelep u. 3. | non-profit szervezet
+3529 Miskolc, Gesztenyés u. 16. | alapítvány
+9400 Sopron , Faller Jenő u.2. | egyéb gazdasági társaság
+8414 Olaszfalu, Felsőpere 1. | non-profit szervezet
+2638 Kemence, Fő u. 97. | önkormányzati társulás
+2628 Szob, Árpád u.15. | önkormányzati társulás
+2639 Bernecebaráti, Széchenyi u. 75. | önkormányzati társulás
+4146 Újiráz, Petőfi u. 19. | önkormányzat
+3378 Mezőszemere, Somogyi u. 4. | önkormányzat
+2769 Tápiószőlős, Kossuth L. u. 77. | önkormányzat
+9444 Fertőszentmiklós, Ifjuság tér 2. | önkormányzat
+4275 Monostorpályi, Kossuth u.50. | önkormányzati társulás
+8431 Bakonyszentlászló, László király u.10. | önkormányzat
+4327 Pócspetri, Pócsi u 13. | önkormányzat
+8878 Lovászi, Petőfi S. u. 1. | többcélú kistérségi társulás
+8900 Zalaegerszeg, Landorhegyi u. 13/A | önkormányzat
+8851 Gyékényes, Szabadság tér 63. | önkormányzat
+4732 Cégénydányád, Zrinyi u.58/C | önkormányzat
+5537 Zsadány, Attila körút 19. | református egyház
+2626 Nagymaros, Vasút u.6. | önkormányzat
+5932 Gádoros, Fő u. 30. | önkormányzat
+8083 Csákvár, Szent István u. 13. | önkormányzati társulás
+6066 Tiszaalpár, Dózsa Gy. u.71. | önkormányzat
+5666 Medgyesegyháza, Kossuth tér 5. | önkormányzat
+7555 Csokonyavisonta, Xantus u. 45. | többcélú kistérségi társulás
+5123 Jászárokszállás, Móczár Andor tér 7. | önkormányzat
+6646 Tömörkény, Ifjuság u.8. | önkormányzati társulás
+3860 Encs, Táncsics u. 2. | önkormányzat
+2112 Veresegyház, Budapesti út 96-98. | non-profit szervezet
+8330 Sümeg, Kossuth u. 2. | alapítvány
+8900 Zalaegerszeg, Pais Dezső u.2. | katolikus egyház
+8751 Zalakomár, Péczely köz 1. | egyesület
+6456 Madaras, Báthory  u. 11. | önkormányzat
+8600 Siófok-Kiliti, Béke tér 2. | katolikus egyház
+1011 Budapest, Fő utca 41. | non-profit szervezet
+1182 Budapest, Marosvásárhely u. 27. | katolikus egyház
+9431 Fertőd, Mentes Mihály. u. 1/b. | katolikus egyház
+4110 Biharkeresztes, Nagy S.u.11-13. | református egyház
+8391 Sármellék, Szent Erzsébet u.1. | egyesület
+2500 Esztergom, Visegrádi út hrsz | katolikus egyház
+7150 Bonyhád, Bank u.3. | non-profit szervezet
+5820 Mezőhegyes, Komlósi u. 14. | alapítvány
+5948 Kaszaper, Komlósi u. 5. | non-profit szervezet
+5662 Csanádapáca, Horváth L.tér 5. | önkormányzat
+9024 Győr, Répce u. 8/b | önkormányzat
+9022 Győr, Apáca u. 27. | önkormányzat
+9028 Győr, Cuha u.30. | önkormányzat
+9026 Győr, Kálóczy tér 9-11. | önkormányzat
+9028 Győr, Mohi u. 4. | önkormányzat
+9311 Pásztori, Alsó u.39-41. | állam
+9346 Magyarkeresztúr, Kossuth L.u.56-57. | állam
+9482 Nagylózs, Zrínyi u. 2. | állam
+9375 Csáfordjánosi, Béke u.17. | állam
+9021 Győr, Káptalandomb 26. | katolikus egyház
+4545 Gyulaháza, Petőfi u. 53. | önkormányzat
+7227 Gyulaj, Magyar u. 9. | önkormányzat
+2045 Törökbálint, Liszt F. u. 10/a. | non-profit szervezet
+4080 Hajdúnánás, Köztársaság tér 12. | református egyház
+4080 Hajdúnánás, Polgári u.12. | református egyház
+4080 Hajdúnánás, Fürdő u.1. | állam
+4060 Balmazújváros, Nagyhát tanya 28. | állam
+4212 Hajdúszovát, Sallai u.4. | református egyház
+6400 Kiskunhalas, Nyúl u. 5-7. | többcélú kistérségi társulás
+6422 Tompa, Szabadság tér 4. | többcélú kistérségi társulás
+6421 Kisszállás, Iskola u. 20-22. | többcélú kistérségi társulás
+6136 Harkakötöny, Ady E. u. 8. | többcélú kistérségi társulás
+2462 Martonvásár, Szent László u. 11. | non-profit szervezet
+2230 Gyömrő, Táncsics M. u. 2/A. | non-profit szervezet
+8087 Alcsútdoboz, (sportpálya mellett) | egyéb gazdasági társaság
+7064 Gyönk, Táncsics u. 473. | állam
+7093 Értény, Barnahát puszta | állam
+7092 Nagykónyi, Nagy u. 10. | állam
+5700 Gyula, Kálvária sor  11. | egyéb egyház
+6098 Tass, Dózsa Gy, út, 10. | egyéb egyház
+3031 Zagyvaszántó, Selypi u. 2. | állam
+3000 Hatvan, Kórház u. 3-5. | állam
+3015 Csány, Csillag u. 27. | állam
+3291 Vámosgyörk, István király u. 1. | állam
+3300 Eger, Petőfi u. 26/b. | állam
+3240 Parád, Toldi u.14. | állam
+6800 Hódmezővásárhely, Serháztér u. 6. | többcélú kistérségi társulás
+3792 Sajóbábony, Bocskai u. 3. | alapítvány
+6783 Ásotthalom, Királyhalmi u.2-4. | többcélú kistérségi társulás
+4264 Nyírábrány, Határőr u.89. | önkormányzat
+1214 Budapest, Simon Bolivár st.1/a | önkormányzat
+2120 Dunakeszi, Kincsem köz 1. | önkormányzat
+4800 Vásárosnamény, Bartók B.u.20/a | önkormányzat
+5540 Szarvas, Bethlen G. u. 27-29. | többcélú kistérségi társulás
+3300 Eger, Berva-völgye, 2. sz. lakótelep sz.ép. | önkormányzat
+4450 Tiszalök, Kossuth u. 68. | önkormányzati társulás
+9375 Répceszemere, Fő u.28. | önkormányzat
+2336 Dunavarsány, Erőspuszta | egyéb gazdasági társaság
+4064 Nagyhegyes, Rákoczi u.2. | önkormányzat
+7300 Komló, Jószerencsét u.32. | non-profit szervezet
+5520 Szeghalom, Kossuth u. 18. | többcélú kistérségi társulás
+3672 Borsodnádasd, Móricz Zs. u. 4. | állam
+3950 Sárospatak, József A. u. 10. | állam
+7213 Szakcs, Petőfi tér 10. | önkormányzat
+7150 Bonyhád, Szabadság u. 2. | önkormányzat
+8757 Csömödér, Rákóczi F. u. 33. | non-profit szervezet
+4273 Hajdúbagos, Ovódaköz 1. | önkormányzat
+4455 Tiszadada, Kossuth tér 4. | önkormányzat
+8975 Szentgyörgyvölgy, Kossuth u.56. | önkormányzat
+9083 Écs, Kápolna u.4. | közhasznú alapítvány
+3600 Ózd, Dózsa Gy. u. 50. | állam
+2016 Leányfalu, Szt. Imre Herceg u. 1. | református egyház
+2030 Érd, Topoly  u. 2. | önkormányzat
+1021 Budapest, Szerb A. u. 13-17. | katolikus egyház
+1051 Budapest, Nádor u. 6. III. em. | önkormányzat
+9028 Győr, Lepke u.37. | önkormányzat
+2760 Nagykőrös, Arany J. u. 35. | önkormányzat
+7751 Szederkény, Pécsi u. 23. | non-profit szervezet
+7300 Komló, Mecsekjánosi puszta 3. | non-profit szervezet
+6136 Harkakötöny, Bem u. 2. | többcélú kistérségi társulás
+2700 Cegléd, Bajcsy Zs. u. 1. | többcélú kistérségi társulás
+3281 Karácsond, Szent István u.37. | önkormányzat
+7275 Igal, Farkas János u. 1-3. | egyéb gazdasági társaság
+1201 Budapest, Vörösmarty u. 56. | non-profit szervezet
+8788 Zalaszentlászló, Széchenyi u.2. | önkormányzat
+4400 Nyíregyháza, Rozsnyó u. 33. | református egyház
+8623 Balatonföldvár, Széchenyi u. 2. | egyéb gazdasági társaság
+2081 Piliscsaba, Béla király utja  96. | non-profit szervezet
+2081 Piliscsaba, Kálmán kir. u. 15. | katolikus egyház
+9091 Ravazd, Paphegy u. 1. | alapítvány
+4741 Jánkmajtis, Kossuth u. 2. | önkormányzat
+5231 Fegyvernek, Angolkert út 1. | állam
+5130 Jászapáti, Juhász M.u.2-4. | állam
+5130 Jászapáti, Hősök tere 7. | állam
+5126 Jászfényszaru, Bajcsy Zs. út 7. | önkormányzat
+2119 Pécel, Pesti u. 2. | katolikus egyház
+6200 Kiskőrös, Rákóczi u. 165. | evangélikus egyház
+7754 Bóly, Hősök tere 4. | önkormányzat
+4183 Kaba, Cukorgyári Lakótelep | non-profit szervezet
+2730 Albertirsa, Dózsa Gy. út. 7. | evangélikus egyház
+8282 Mindszentkálla, Rákoczi út 16. | önkormányzat
+6300 Kalocsa, Kunszt J. u. 14. | önkormányzat
+6300 Kalocsa, Bem apó. u. 19. | önkormányzat
+8083 Csákvár, Kálvin u.11. | református egyház
+1125 Budapest, Nógrádi u.12-14. | református egyház
+8315 Gyenesdiás, Béke u. 43. | evangélikus egyház
+5300 Karcag, Horváth Ferenc u. 1. sz. | többcélú kistérségi társulás
+5310 Kisújszállás, Téglagyár út 10. | többcélú kistérségi társulás
+7833 Görcsöny, Hársfa u. 6. | katolikus egyház
+7833 Görcsöny, Keresztespuszta (telephely) | katolikus egyház
+9147 Dör, Kossuth Lajos u. 47. | közhasznú alapítvány
+5100 Jászberény, Ferencesek tere 1. | katolikus egyház
+3700 Kazincbarcika, Jószerencsét u.8. | egyesület
+3700 Kazincbarcika, Gyermekek u. 2. | egyesület
+3700 Kazincbarcika, Gyermekek útja 4. | egyesület
+2133 Sződliget, Duna-part 2.  | alapítvány
+6423 Kelebia, József A. u. 75. | önkormányzat
+5083 Kengyel, Kossuth út 83. | önkormányzat
+5742 Elek, Szent István u. 28. | egyéb egyház
+8093 Lovasberény, Kossuth L. u. 38-40. | egyesület
+8360 Keszthely, Csók István u. 1/a. | önkormányzat
+3600 Ózd, Szent I. u. 10. | többcélú kistérségi társulás
+3600 Ózd, Bulcsú u. 1. | többcélú kistérségi társulás
+3600 Ózd, Bólyki főút 11. | többcélú kistérségi társulás
+3200 Gyöngyös, Dózsa György út 20-22. | többcélú kistérségi társulás
+3325 Noszvaj, Szomolyai út 0214/18 hrsz. | alapítvány
+6200 Kiskőrös, Sárkány J. u. 13. | többcélú kistérségi társulás
+4325 Kisléta, Bogáti u. 7. | önkormányzat
+7257 Mosdós, Petőfi S. u. 4. | református egyház
+6090 Kunszentmiklós, Felsőszenttamás dülő 8. | többcélú kistérségi társulás
+9200 Mosonmagyaróvár, Soproni u. 65. | többcélú kistérségi társulás
+9200 Mosonmagyaróvár, Lengyári u. 2. | többcélú kistérségi társulás
+9200 Mosonmagyaróvár, Soproni u. 65. | többcélú kistérségi társulás
+4300 Nyírbátor, Fáy András út 17/d. | többcélú kistérségi társulás
+4561 Baktalórántháza, Zrinyi u.1/b | többcélú kistérségi társulás
+2900 Komárom, Árpád u. 2-4. | önkormányzat
+4138 Komádi, Köztársaság u. 11. | non-profit szervezet
+5553 Kondoros, Endrődi u. 2. | evangélikus egyház
+7285 Törökkoppány, Ady E.u.12. | non-profit szervezet
+4440 Tiszavasvári, Vasvári Pál u.87. | önkormányzat
+6065 Lakitelek, Béke u. 20. | önkormányzat
+8460 Devecser, Petőfi tér 5. | evangélikus egyház
+2071 Páty, Erkel utca 18. | egyéb gazdasági társaság
+1172 Budapest, Liget sor 46. | önkormányzat
+8053 Bodajk, Fehérvári út 12. | alapítvány
+2541 Lábatlan, Honvéd út 4-6. | non-profit szervezet
+7144 Decs, Öreg u.68. | református egyház
+1173 Budapest, XVII. Uszoda u. 3. | non-profit szervezet
+3400 Mezőkövesd, Rákóczi u. 21. | alapítvány
+7342 Mágocs, Szabadság u. 3-4. | önkormányzat
+8960 Lenti, Templom tér 11. | katolikus egyház
+8868 Letenye, Petőfi S. u. 40. | katolikus egyház
+8796 Türje, Szabadság tér 20. | katolikus egyház
+3535 Miskolc, Köln u. 2. | egyesület
+3102 Salgótarján, Petőfi u.92-94. | katolikus egyház
+3100 Salgótarján, Füleki út 52. | katolikus egyház
+7530 Kadarkút, Vóta kastély | egyéb egyház
+4137 Magyarhomorog, Árpád u.47. | önkormányzat
+6200 Kiskőrös, Szűcs József  u. 12. | egyéb egyház
+4220 Hajdúböszörmény, Batthyány u. 30. | egyéb egyház
+6000 Kecskemét, Nyíri út 77/a. | önkormányzat
+3528 Miskolc, Bornemisza u.13. | református egyház
+3232 Mátrafüred, Üdülősor 7. | non-profit szervezet
+3400 Mezőkövesd, Damjanich út 2. | alapítvány
+4835 Mátyus, Kossuth u. 14. | alapítvány
+2132 Göd, Regős u. 27. | non-profit szervezet
+8300 Tapolca, Arany János u. 8. | non-profit szervezet
+4032 Debrecen, Nagyerdei krt. 64. | református egyház
+4765 Csenger, Béke utca 2. | református egyház
+8400 Ajka, Frankel L. u. 8. | önkormányzat
+6449 Mélykút, Hunyadi u. 31. | önkormányzat
+2092 Budakeszi, Rákóczi u. 2. | egyéb egyház
+7361 Kaposszekcső, Napsugár u. 17. | egyéb egyház
+3400 Mezőkövesd, Bogácsi u. 4. | többcélú kistérségi társulás
+3400 Mezőkövesd, Mátyás király út 90. | többcélú kistérségi társulás
+5400 Mezőtúr, Kiss János út 6. | református egyház
+5400 Mezőtúr, Szolnoki út 18. | református egyház
+6300 Kalocsa, Petőfi S. u. 2. | katolikus egyház
+4271 Mikepércs, Forrás tanya 42. | református egyház
+4485 Nagyhalász, Arany J.u.100. | többcélú kistérségi társulás
+3534 Miskolc, Fazola Henrik u. 4. | önkormányzat
+3534 Miskolc, Kacsoh Pongrác út 6. | önkormányzat
+3534 Miskolc, Kis tábornok út 32. | önkormányzat
+3526 Miskolc, Szentpéteri kapu 101. | önkormányzat
+3533 Miskolc, Kórház u.1. | önkormányzat
+3533 Miskolc, Kabar u. 4. | önkormányzat
+7700 Mohács, Gólya u. 42. | többcélú kistérségi társulás
+7700 Mohács, Gólya u.15. | többcélú kistérségi társulás
+7728 Somberek, Dózsa Gy. u. 19. | önkormányzat
+4181 Nádudvar, Petri-Derzs u.6-8. | református egyház
+3980 Sátoraljaújhely, Pataki u. 21. | katolikus egyház
+4326 Máriapócs, Kossuth tér 16. | katolikus egyház
+8935 Nagykapornak, Kisfaludy u. 2. | önkormányzat
+4281 Létavértes, Kossuth u. 2. | református egyház
+2458 Kulcs, Rózsahegyi út 3. | non-profit szervezet
+2454 Iváncsa, Fő út 28. | non-profit szervezet
+2030 Érd, Kende u. 4-8. | kiemelt közhasznú alapítvány
+2030 Érd, Árpád u. 26. | kiemelt közhasznú alapítvány
+1083 Budapest, Illés u. 38. | kiemelt közhasznú alapítvány
+nincs adat Érd, Fő u.71-73. | kiemelt közhasznú alapítvány
+8330 Sümeg, Kompanik Zsófia u. 6/1. | önkormányzat
+3519 Miskolc, Miskolctapolcai u. 37. | non-profit szervezet
+5742 Elek, Gyulai u. 15. | önkormányzat
+5100 Jászberény, Hatvani út 35. | önkormányzat
+2071 Páty, Munkás tér 20-22. | non-profit szervezet
+5700 Gyula, Galamb u. 21. | többcélú kistérségi társulás
+7960 Sellye, Aradi u. 1. | non-profit szervezet
+7741 Nagykozár, Kossuth L. u. 28. | non-profit szervezet
+7020 Dunaföldvár, Hunyadi park 5. | önkormányzat
+2112 Veresegyház, Árpád u. 1. | non-profit szervezet
+2011 Budakalász, Klisovác u.34. | non-profit szervezet
+3580 Tiszaújváros, Rózsa u.16. | református egyház
+3078 Bátonyterenye, Makarenkó út 24. | állam
+3147 Mizserfa, Május 1. út 82. | állam
+4372 Nyírbéltelk, Ady E.u.70. | önkormányzat
+4511 Nyírbogdány, Kéki u. 1-3. | református egyház
+4431 Nyíregyháza-Sóstófürdő, Tölgyes u. 11. | református egyház
+4400 Nyíregyháza, Etel köz 11-13. | református egyház
+4551 Nyíregyháza-Oros, Rozsnyai út 8. | önkormányzat
+4400 Nyíregyháza, Pacsirta u. 29-35. | önkormányzat
+2316 Tököl, Pesti u. 1. | közhasznú alapítvány
+4311 Nyírgyulaj, Bajcsy Zs. u. 17. | katolikus egyház
+4544 Nyírkarász, Fő u. 106. | katolikus egyház
+4531 Nyírpazony, Árpád u.79. | református egyház
+4484 Ibrány, Lehel u.43-45. | református egyház
+4353 Tiborszállás, Vadaskert u. 1. | református egyház
+4461 Nyírtelek, Puskin u. 2-4. | önkormányzat
+4533 Sényő, Kossuth u.22. | önkormányzati társulás
+4532 Nyírtura, Rákóczi F. u. 58. | önkormányzati társulás
+6411 Zsana, Új u.61. | önkormányzat
+2424 Előszállás, Baross  Gábor  tér 1. | non-profit szervezet
+2235 Mende, Fő u.15. | katolikus egyház
+1038 Budapest, Zipernovszky u. 1-3. | önkormányzat
+4558 Ófehértó, Szent István u. 27. | önkormányzati társulás
+1214 Budapest, Tejút u. 1.,  Rakéta u. 7-11. | egyéb gazdasági társaság
+1084 Budapest, Mátyás tér 6. | egyéb gazdasági társaság
+2045 Törökbálint, Kazinczy út 111. | egyéb gazdasági társaság
+1154 Budapest, Bánkút u. 67-69. | egyéb gazdasági társaság
+1149 Budapest, Vezér u.151-155. | egyéb gazdasági társaság
+1029 Budapest, Szent József u. 8. | non-profit szervezet
+1062 Budapest, Lendvay u.13. | non-profit szervezet
+2330 Dunaharaszti, Fő u.50- 52. | non-profit szervezet
+6120 Kiskunmajsa, Fő u. 2. | református egyház
+3743 Ormosbánya, Ady E. u. 33. | állam
+5900 Orosháza, Kettőssánc tér 10. | önkormányzat
+5900 Orosháza, Táncsics u. 8. | önkormányzat
+5900 Orosháza, Teréz u. 14. | önkormányzat
+7345 Alsómocsolád, Rákoczi u.74. | önkormányzat
+8708 Somogyfajsz, Kastélykert 1. | alapítvány
+2870 Kisbér, Deák F. u. 69. | önkormányzat
+3881 Abaújszántó, Petőfi u.18. | önkormányzat
+5475 Csépa, Rákóczi út 15. | önkormányzat
+8784 Kehidakustány, Petőfi S.u.93. | református egyház
+7355 Nagymányok, József A. u. 8/c | önkormányzati társulás
+7354 Váralja, Kossuth L.u.129. | önkormányzati társulás
+6000 Kecskemét, Nyíri u.77/a | önkormányzat
+5540 Szarvas, Rákóczi u. 25. | evangélikus egyház
+5541 Szarvas, Vajda P. u. 7. | evangélikus egyház
+5551 Csabacsüd, Petőfi u.51-53. | evangélikus egyház
+5055 Jászladány, Kossuth L.u.106. | önkormányzat
+5055 Jászladány, Kossuth L. út 116. | katolikus egyház
+7400 Kaposvár, Füredi u. 53. | non-profit szervezet
+8182 Berhida-Peremarton-gyártelep, Hasrangvirág u.1. | református egyház
+8500 Pápa, Vörösmarty u. 12. | önkormányzat
+8500 Pápa, Barát u. 3. és 4-6. | önkormányzat
+8500 Pápa, Teveli u. 3. | önkormányzat
+3060 Pásztó, Sport út 4-6. | önkormányzat
+7362 Vásárosdombó, Margitmajor 9. | katolikus egyház
+7623 Pécs, Tüzér u. 7. | önkormányzat
+7624 Pécs, Szent István tér 13. | katolikus egyház
+7720 Pécsvárad, Dózsa Gy. u. 2/a. | többcélú kistérségi társulás
+2533 Bajót, Péliföldszentkereszt hrsz: 078. | egyesület
+2711 Tápiószentmárton, Ady E. u. 35. | állam
+2750 Nagykőrös, Ady Endre u. 16. | állam
+2119 Pécel, Ady E.u.8. | állam
+2251 Szentlőrinckáta, Kossuth L. u. 20. | állam
+2194 Tura, Szent I.u.79. | állam
+2111 Szada, Kisfaludy u.4. | állam
+2300 Kiskunlacháza, Külsőráckevei út 194. | állam
+2300 Ráckeve, Kazinczy u.23. | állam
+1201 Budapest, Nagy Györy István u.29-31/a | önkormányzat
+3250 Pétervására, Ifjúság u. 7. | önkormányzat
+3433 Nyékládháza, Vasút u. 2/a | alapítvány
+6640 Csongrád, Szent Imre u. 19. | önkormányzat
+2096 Üröm, Dózsa Gy. út 30. | non-profit szervezet
+8044 Kincsesbánya, József A.u.13. | non-profit szervezet
+7191 Hőgyész, Ady E. u. 4. | alapítvány
+3388 Poroszló, Alkotmány u. 7. | önkormányzat
+2016 Leányfalu, Móricz Zsigmond u. 177. | non-profit szervezet
+4465 Rakamaz, Szent István u. 131. | önkormányzati társulás
+4961 Zsarolyán, Fő u. 16. | református egyház
+5501 Gyomaendrőd, Fő u. 167-169. | református egyház
+4150 Püspökladány, Karcagi u. 26. | református egyház
+5530 Vésztő, Bartók tér 6. | református egyház
+5322 Tiszaszentimre, Kossuth 2. (az otthon a Samu Kastély külterületen van ) | református egyház
+6647 Csanytelek, Kossuth u.39. | többcélú kistérségi társulás
+4501 Kemecse, Szent I. u. 43. | többcélú kistérségi társulás
+7551 Lábod, Kossuth u. 43. | többcélú kistérségi társulás
+7500 Nagyatád, Széchenyi tér 3-4. | többcélú kistérségi társulás
+8083 Csákvár, Szent Vince u. 2. | katolikus egyház
+2621 Verőce, Migazzi u. 1. | katolikus egyház
+6066 Tiszaalpár, Istvánújfalu 87. | katolikus egyház
+2654 Romhány, Zrínyi u. 2. | önkormányzat
+3770 Sajószentpéter, Somogyi Béla út 2-4. | állam
+8181 Berhida, Honvéd u. 16-18. | kiemelt közhasznú alapítvány
+7000 Sárbogárd, Tompa M.u.44. | református egyház
+5721 Sarkad, Gyulai út  8. | többcélú kistérségi társulás
+2624 Szokolya, Fő út 44-46. | alapítvány
+1146 Budapest, Hermina  u.51. | református egyház
+1195 Budapest, József A. u. 77. | önkormányzat
+1028 Budapest, Patakhegyi u. 83-85. | non-profit szervezet
+4400 Nyíregyháza, Széchenyi u.15. | katolikus egyház
+7800 Siklós, Járó P. u.42. | többcélú kistérségi társulás
+1196 Budapest, Esze T. u. 123. | református egyház
+8600 Siófok, Korányi u. 1/a. | önkormányzat
+2244 Úri, Rákóczi u. 37. | alapítvány
+6230 Soltvadkert, Bocskai u.12. | református egyház
+8660 Tab, Kossuth u.107. | állam
+7463 Patalom, Bucsi Ignác u. 1. | állam
+7562 Segesd, Kossuth u. 1. | állam
+7538 Kálmáncsa, Kossuth u. 1. | állam
+7531 Kőkút-Gyöngyöspuszta, 7531 Kőkút - Gyöngyöspuszta, Gyöngyöspuszta 1. | állam
+7516 Berzence, Lakótelep 3. | állam
+7443 Somogyjád, Fő utca 8. | önkormányzati társulás
+9400 Sopron, Szent Margit u.2. | non-profit szervezet
+9400 Sopron, Balfi u. 80. | önkormányzat
+9400 Sopron, József A. u. 5. | önkormányzat
+4400 Nyiregyháza, Hősők tere 5. | állam
+4352 Mérk, Hunyadi u.183. | állam
+4752 Győrtelek, Kossuth L. u. 141. | állam
+4700 Mátészalka, Móricz Zs. u. 73. | református egyház
+6724 Szeged, Zákány u. 25. | non-profit szervezet
+6722 Szeged, Jósika u. 20. | egyéb egyház
+5510 Dévaványa, Jéggyár u. 47. | többcélú kistérségi társulás
+9022 Győr, Apáca u. 41. | katolikus egyház
+4972 Gacsály, Petőfi u.29. | katolikus egyház
+5675 Telekgerendás,  Tanya 273. | alapítvány
+9024 Győr, Öveges József út 7. | alapítvány
+2049 Diósd, Apponyi u. 10-12. | alapítvány
+4233 Balkány, Kossuth u.28. | katolikus egyház
+9107 Tét, Fő u.73. | egyéb gazdasági társaság
+2944 Bana, Zrinyi M.u.3. | non-profit szervezet
+1224 Budapest, Dózsa Gy. u. 98. | kiemelt közhasznú alapítvány
+8420 Zirc, Köztársaság u.2. | katolikus egyház
+2524 Nagysáp, Granárium domb 1. | non-profit szervezet
+3704 Berente, Ady Endre u. 7-11. | önkormányzat
+7300 Komló, Liliom u. 9. | non-profit szervezet
+7300 Komló, Pécsi út 42. | non-profit szervezet
+2660 Balassagyarmat, Markusovszky út 1. | önkormányzat
+3000 Hatvan, Mártirok útja 3. | katolikus egyház
+2335 Taksony, Szent Imre u.10. | alapítvány
+4030 Debrecen, Tátra u.2-6. | katolikus egyház
+5661 Újkígyós, Radnóti u. 1/1. | katolikus egyház
+3508 Miskolc, Szeretet u. 15. | katolikus egyház
+5925 Gerendás, Petőfi u. 5. | katolikus egyház
+3232 Mátrafüred, Üdülősor  29. | katolikus egyház
+2421 Nagyvenyim, Táncsics M. u. 6. | katolikus egyház
+2534 Tát, Szent György tér 1. | önkormányzat
+4446 Mándok, Mónus Illés u. 20/b. | katolikus egyház
+2737 Ceglédbercel, Pesti u. 50. | non-profit szervezet
+5800 Mezőkovácsháza, Vásárhelyi u. 2. | non-profit szervezet
+1214 Budapest, Béke tér 13. | katolikus egyház
+2083 Solymár, Rákóczi u. 4. | katolikus egyház
+4220 Hajdúböszörmény, Apaffy M. u. 106. | egyesület
+3751 Szendrőlád, Dózsa Gy.út 1. | önkormányzat
+8330 Sümeg, Rendeki út 14. | egyesület
+4405 Nyíregyháza, Tünde u. 18. | református egyház
+3232 Mátrafüred, Hegyalja út 7. | katolikus egyház
+2536 Nyergesújfalu, Kossuth L. u. 3. | katolikus egyház
+9661 Vasegerszeg, Rákóczi u. 39/A | non-profit szervezet
+4446 Mándok, Mónus Illés u.20. | katolikus egyház
+4341 Nyírvasvári, Bátori u. 3. | katolikus egyház
+1085 Budapest, Mária u. 20. | katolikus egyház
+6600 Szentes, Kossuth tér 4. | református egyház
+5700 Gyula, Széchenyi u. 63. | többcélú kistérségi társulás
+3526 Miskolc, Eperjesi u.5. | non-profit szervezet
+8100 Várpalota, Honvéd u. 2. | önkormányzat
+7621 Pécs, Tímár u. 5. | izraelita egyház
+2315 Szigethalom, Rákóczi F. u. 147. | önkormányzat
+1108 Budapest, Újhegyi sétány 1-3. | non-profit szervezet
+2767 Tápiógyörgye, Deák F. u. 12. | egyéb egyház
+3426 Borsodgeszt, Fő u.57. | református egyház
+6100 Kiskunfélegyháza, Nádasdy u. 12. | önkormányzat
+4564 Nyírmada, Petőfi u.1. | önkormányzat
+3022 Lőrinci, Erőmű tér 37. | önkormányzat
+7144 Decs, Ady E. u. 6. | non-profit szervezet
+8700 Marcali, Noszlopy G. u. 1. | többcélú kistérségi társulás
+4946 Tiszakóród, Kossuth u.45. | önkormányzat
+7695 Mecseknádasd, Rákóczi u. 2. | többcélú kistérségi társulás
+6440 Jánoshalma, Hunyadi L.2. | non-profit szervezet
+7815 Harkány, Ady E. u. 34./b | non-profit szervezet
+4644 Mándok, Petőfi út 23. | többcélú kistérségi társulás
+1013 Budapest, Krisztina krt. 61/a. | katolikus egyház
+3800 Szikszó, Bethánia köz 6. | katolikus egyház
+2451 Ercsi, Lejtő sor 1. | önkormányzat
+7940 Szentlőrinc, Munkácsy M. u. 1-3. | önkormányzat
+6455 Katymár, Szent István király  u. 28. | önkormányzat
+3783 Edelény, Árpád út. 29. | önkormányzat
+4124 Esztár, Árpád u. 23. | önkormányzati társulás
+4274 Hosszúpályi, Debreceni u. 2/c | önkormányzat
+4287 Vámospércs, Nagy u. 28. | önkormányzat
+4126 Kismarja, Fő u.16. | önkormányzati társulás
+4502 Vasmegyer, Kossuth u.104. | többcélú kistérségi társulás
+7400 Kaposvár, Vak Bottyán u. 1. | önkormányzat
+5000 Szolnok, Vízpart krt. 3. | többcélú kistérségi társulás
+5000 Szolnok, Eötvös tér 7. | többcélú kistérségi társulás
+5000 Szolnok, Kaán K. út 20. | többcélú kistérségi társulás
+5000 Szolnok, Abonyi út 32. | többcélú kistérségi társulás
+5085 Rákoczifalva, Kossuth u.13. | többcélú kistérségi társulás
+5948 Kaszaper-Pusztaszőlős, Dózsa tér 7. | önkormányzat
+9700 Szombathely, Középhegyi út 1. | állam
+9700 Szombathely, Körmendi u. 2. | evangélikus egyház
+1029 Budapest, Báthori L. u. 8. | evangélikus egyház
+2143 Kistarcsa, Szt. László u. 2. | evangélikus egyház
+2457 Adony, Kossuth L.u.15. | katolikus egyház
+8184 Balatonfüzfő, Gagarin u.22. | non-profit szervezet
+2760 Nagykáta, Petőfi S. u. 4/a. | többcélú kistérségi társulás
+3258 Tarnalelesz, Szabadság u. 48. | önkormányzat
+2800 Tatabánya, Május 1. park 1. | többcélú kistérségi társulás
+2800 Tatabánya, Cseri u. 34. | többcélú kistérségi társulás
+2890 Tata, Fényes Fasor 2. | többcélú kistérségi társulás
+6066 Tiszaalpár, Ady E. u. 94. | non-profit szervezet
+2089 Telki, Kórház fasor 1. | állam
+8380 Héviz, Honvéd u.2. | önkormányzat
+5501 Gyomaendrőd, Mirhóháti u.8. | önkormányzat
+5501 Gyomaendrőd, Mirhóháti u. 1-5. | önkormányzat
+5501 Gyomaendrőd, Blaha u.2- 6. | önkormányzat
+5501 Gyomaendrőd, Kondorosi út 1. | önkormányzat
+5350 Tiszafüred, Bajcsy Zs. út 50/a. | többcélú kistérségi társulás
+5464 Tiszainoka, Felszabadulás út 15. | önkormányzat
+4831 Tiszaszalka, Bajcsy Zs. u. 11. | önkormányzati társulás
+3580 Tiszaújváros, Bartók Béla u. 1-3. | önkormányzat
+4933 Beregsurány, Árpád u.52. | állam
+3910 Tokaj, Bodrogkeresztúri út 52. | önkormányzat
+7020 Dunaföldvár, Paksi u. 70. | állam
+7150 Szekszárd, Palánki u. 2. | állam
+7140 Bátaszék, Bezerédi u. 13. | állam
+2484 Agárd, Tópart u. 13. | non-profit szervezet
+5451 Öcsöd, Hunyadi út 57. | önkormányzat
+5940 Tótkomlós, Széchenyi u. 18. | önkormányzat
+5940 Tótkomlós, Fő u. 43. | evangélikus egyház
+2660 Balassagyarmat, Deák Ferenc út 22. | evangélikus egyház
+7255 Nagyberki, Fő u.13. | egyesület
+1115 Budapest, Fraknó u. 7. | önkormányzat
+1042 Budapest, Liszt F. u. 7. | izraelita egyház
+9323 Jobaháza, Kossuth u.8. | református egyház
+8452 Szőc, Határvölgy 1. | református egyház
+8596 Pápakovácsi, Attyapuszta 4. | református egyház
+9097 Mezőörs, Fő u.66. | református egyház
+9100 Tét, Fő utca 129/a. | egyéb gazdasági társaság
+2600 Vác, Burgundia u. 9-11. | önkormányzat
+2600 Vác, Rádi u. 48/a. | önkormányzat
+2600 Vác, Arany J. u. 1-3. | önkormányzat
+2310 Szigetszentmiklós, Kossuth L . u. 19. | önkormányzat
+2440 Százhalombatta, Liszt Ferenc sétány 4. | önkormányzat
+3630 Putnok, Szkala B. u. 20. | önkormányzat
+9970 Szentgotthárd, Arany J. u. 3. | többcélú kistérségi társulás
+5650 Mezőberény, Puskin u. 1. | önkormányzat
+2085 Pilisvörösvár, Rákóczi u. 5. | önkormányzati társulás
+4900 Fehérgyarmat, Tömöttvár u. 29-31. | többcélú kistérségi társulás
+9746 Acsád, Semmelweis tér. 1. | állam
+9631 Hegyfalu, Kossuth u. 2.  | állam
+9730 Kőszeg, Kálvária u. 14. | állam
+9730 Kőszeg, Munkácsy u. 15. | állam
+9739 Kőszegpaty, Kossuth u. 5. | állam
+9734 Peresznye, Hunyadi u. 85. | állam
+9632 Sajtoskál, Rákoczi u.1. | állam
+9700 Szombathely, Gagarin u. 5. | állam
+9825 Oszkó, Petőfi S. u. 1/A. | állam
+9800 Táplánszentkereszt, Táncsis M.u.22. | állam
+9800 Vasvár, Petőfi u.14. | állam
+6521 Vaskút, Damjanich u. 75. | önkormányzat
+2112 Veresegyház, Fő u.106. | önkormányzat
+4283 Létavértes, Irinyi u. 7. | református egyház
+9532 Külsővat, Béri B. Á. u. 1. | református egyház
+8200 Veszprém, Török Ignác u. 10. | többcélú kistérségi társulás
+3232 Mátrafüred, Üdülősor 58. | non-profit szervezet
+3132 Nógrádmegyer, Petőfi út 139. | önkormányzat
+1112 Budapest, Dayka G. u. 102-104. | katolikus egyház
+5052 Újszász, Akácfa út 90. | önkormányzat
+8900 Zalaegerszeg, Külsőkórház u. 2. | állam
+8798 Zalabér , Templom tér 1. | önkormányzat
+8900 Zalaegerszeg, Gasparich u.3. | önkormányzat
+2373 Dabas-Gyón, Zárda köz 6. | katolikus egyház
+7472 Szentbalázs, Fő u.96. | non-profit szervezet
